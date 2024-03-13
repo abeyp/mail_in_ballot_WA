@@ -1,4 +1,4 @@
-# Universal Vote-by-Mail in Washington | Statistics 
+# Universal Vote-by-Mail in Washington 
 [Current Project] Mail-In Ballot Trends in Washington, USA.
 
 **A Personal Note**
