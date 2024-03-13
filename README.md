@@ -5,9 +5,7 @@
 
 The Ballot Drop Box stands to be a visual reminder of my community's voting power in every election, locally and nationally. 
 
-When I moved to Seattle, WA, I became most active voter in my life. Upon registering for a WA Driver's License, I became 1 of 4.8 million Washingtonians to be automatically registered as an eligible voter under Universal Vote-by-Mail (UVM).
-
-Every election, I receive a ballot and voter pamphlet. On election day, I proceed to procrastinate for hours swarming the internet to discover and develop my hypoerlocal, political values. I developed an appreciation for the ballot Drop Box down the street next to the neighborhood public library. 
+When I moved to Seattle, WA, I became a very active voter for the first time. Upon registering for a WA Driver's License, I became 1 of 4.8 million Washingtonians to be automatically registered as an eligible voter under Universal Vote-by-Mail (UVM). My first Washington election, I stopped by my first ballot Drop Box at the local neighborhood library, and onwards developed a deep appreciation for the physcial drop-off location optino to discover and develop my hyperlocal, political participation.  
 
 **Goals**
 - Explore publically available datasets provided by Secretary of State Elections Divison Office for future projects. 
