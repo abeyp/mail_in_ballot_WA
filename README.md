@@ -47,6 +47,8 @@ What is the relationship between ballot drop boxes and voters in King County?
 List of Sources: 
 - [Ballot Drop Box Usage by Year](https://www.sos.wa.gov/elections/data-research/election-data-and-maps/reports-data-and-statistics/ballot-drop-box-usage-year)
 - [Voter Turnout by Election](https://www.sos.wa.gov/elections/data-research/election-data-and-maps/reports-data-and-statistics/voter-turnout-election)
+- [General Election Turnout](https://www.sos.wa.gov/elections/data-research/election-data-and-maps/reports-data-and-statistics/general-election-turnout)
+- [Voter Participation Statistics](https://www.sos.wa.gov/elections/data-research/voter-participation-statistics)
 - [Drop Box and Voting Center Locations](https://www.sos.wa.gov/elections/voters/voter-registration/drop-box-and-voting-center-locations)
 - [2022 February Special Election](https://www.sos.wa.gov/2022-february-special-election)
 
